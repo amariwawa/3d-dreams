@@ -1,0 +1,10 @@
+{
+  "name": "pfp-3d",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Turn a photo into a 3D profile picture, 8-bit voxel model and 8-bit sprite — all in the browser.",
+  "scripts": {
+    "start": "python3 -m http.server 4321 --bind 127.0.0.1"
+  }
+}
